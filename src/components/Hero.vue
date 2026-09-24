@@ -65,7 +65,7 @@
 <script>
 import { OhVueIcon, addIcons } from 'oh-vue-icons';
 import { BiArrowUpRight } from 'oh-vue-icons/icons/bi';
-import heroImage from '../assets/download.jpg';
+import heroImage from '../assets/ak.jpeg';
 
 addIcons(BiArrowUpRight);
 

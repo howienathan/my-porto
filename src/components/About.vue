@@ -29,7 +29,7 @@
 </template>
 
 <script>
-import profileImage from '../assets/download.jpg';
+import profileImage from '../assets/ak2.jpeg';
 
 export default {
   data() {
