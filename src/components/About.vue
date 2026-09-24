@@ -38,14 +38,14 @@ export default {
       highlights: [
         {
           title: 'Frontend Development',
-          text: 'I create fast, responsive, and polished interfaces with modern Vue and Tailwind workflows.'
+          text: 'I create fast, responsive, and polished interfaces with modern JavaScript Framework and Tailwind workflows.'
         },
         {
           title: 'UI/UX Design',
           text: 'I focus on accessibility, clarity, and visual hierarchy to make products feel intuitive.'
         }
       ],
-      skills: ['Vue.js', 'Tailwind CSS', 'UI Design', 'Responsive Web', 'Figma', 'Performance']
+      skills: ['JavaScript', 'Tailwind CSS', 'UI Design', 'Responsive Web', 'Figma', 'Performance']
     };
   }
 };

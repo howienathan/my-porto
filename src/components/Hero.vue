@@ -12,7 +12,7 @@
           Digital work with <em class="not-italic text-(--blue)">sharp edges.</em>
         </h1>
         <p class="max-w-[490px] text-lg leading-[1.6] text-(--muted)">
-          I’m Jonathan, a frontend developer and UI/UX designer building clear, expressive digital experiences for ambitious teams.
+          I’m Jonathan Iatsa Heroku Augta, a frontend developer and UI/UX designer building clear, expressive digital experiences for ambitious teams.
         </p>
         <div class="mt-[34px] flex items-center gap-6">
           <a

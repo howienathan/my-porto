@@ -4,6 +4,7 @@
     <Hero />
     <About />
     <Project />
+    <Contact />
   </div>
 </template>
 <script>
@@ -14,21 +15,25 @@ import Navbar from './components/Navbar.vue';
 import Hero from './components/Hero.vue';
 import About from './components/About.vue';
 import Project from './components/Project.vue';
+import Contact from './components/Contact.vue';
 
 export default {
   components: {
     Navbar,
     Hero,
     About,
-    Project
+    Project,
+    Contact
   },
   setup() {
     onMounted(() => {
       AOS.init({
-        duration: 800,
-        once: false,
-        offset: 100,
-        easing: 'ease-in-out',
+        duration: 1200,
+        once: true,
+        offset: 60,
+        easing: 'ease-out-quart',
+        mirror: false,
+        delay: 50,
       });
     });
   }
